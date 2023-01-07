@@ -28,7 +28,7 @@ const Link = styled(NavLink)`
   }
   :hover,
   :focus {
-    color: rgb(255 255 255);
+    color: rgb(255 0 0);
   }
 `;
 
